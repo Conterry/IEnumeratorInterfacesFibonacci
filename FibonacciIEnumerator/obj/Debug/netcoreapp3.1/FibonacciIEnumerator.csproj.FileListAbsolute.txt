@@ -1,0 +1,13 @@
+C:\Users\glebo\source\repos\FibonacciIEnumerator\FibonacciIEnumerator\bin\Debug\netcoreapp3.1\FibonacciIEnumerator.exe
+C:\Users\glebo\source\repos\FibonacciIEnumerator\FibonacciIEnumerator\bin\Debug\netcoreapp3.1\FibonacciIEnumerator.deps.json
+C:\Users\glebo\source\repos\FibonacciIEnumerator\FibonacciIEnumerator\bin\Debug\netcoreapp3.1\FibonacciIEnumerator.runtimeconfig.json
+C:\Users\glebo\source\repos\FibonacciIEnumerator\FibonacciIEnumerator\bin\Debug\netcoreapp3.1\FibonacciIEnumerator.runtimeconfig.dev.json
+C:\Users\glebo\source\repos\FibonacciIEnumerator\FibonacciIEnumerator\bin\Debug\netcoreapp3.1\FibonacciIEnumerator.dll
+C:\Users\glebo\source\repos\FibonacciIEnumerator\FibonacciIEnumerator\bin\Debug\netcoreapp3.1\FibonacciIEnumerator.pdb
+C:\Users\glebo\source\repos\FibonacciIEnumerator\FibonacciIEnumerator\obj\Debug\netcoreapp3.1\FibonacciIEnumerator.csprojAssemblyReference.cache
+C:\Users\glebo\source\repos\FibonacciIEnumerator\FibonacciIEnumerator\obj\Debug\netcoreapp3.1\FibonacciIEnumerator.AssemblyInfoInputs.cache
+C:\Users\glebo\source\repos\FibonacciIEnumerator\FibonacciIEnumerator\obj\Debug\netcoreapp3.1\FibonacciIEnumerator.AssemblyInfo.cs
+C:\Users\glebo\source\repos\FibonacciIEnumerator\FibonacciIEnumerator\obj\Debug\netcoreapp3.1\FibonacciIEnumerator.csproj.CoreCompileInputs.cache
+C:\Users\glebo\source\repos\FibonacciIEnumerator\FibonacciIEnumerator\obj\Debug\netcoreapp3.1\FibonacciIEnumerator.dll
+C:\Users\glebo\source\repos\FibonacciIEnumerator\FibonacciIEnumerator\obj\Debug\netcoreapp3.1\FibonacciIEnumerator.pdb
+C:\Users\glebo\source\repos\FibonacciIEnumerator\FibonacciIEnumerator\obj\Debug\netcoreapp3.1\FibonacciIEnumerator.genruntimeconfig.cache
